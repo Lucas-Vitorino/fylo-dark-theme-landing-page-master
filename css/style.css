@@ -172,7 +172,20 @@ body {
 	background:#181F2A;
 	margin: 0 auto;
 	padding: 90px 20px; 
+	grid-template-columns: 1fr 1fr;
+	align-items: center;
 }
+
+.div-3 .item-div {
+	padding: 0px 20px;
+	background: tomato;
+}
+
+.div-3 .info-div-3 {
+	width: 300px;
+}
+
+
 
 
 
